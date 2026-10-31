@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="1.2"
+        android:scaleY="1.2"
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Graduation Cap Top -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M54,34 L30,44 L54,54 L78,44 Z" />
+        <!-- Graduation Cap Base -->
+        <path
+            android:fillColor="#FFC107"
+            android:pathData="M38,48 L38,58 C38,64 70,64 70,58 L70,48 L54,54 Z" />
+        <!-- Tassel -->
+        <path
+            android:strokeColor="#FFE082"
+            android:strokeWidth="2"
+            android:pathData="M68,48 L73,56 L73,62" />
+        <!-- Open Book Pages Left & Right -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,66 C38,63 46,63 52,66 L52,78 C46,75 38,75 32,78 Z" />
+        <path
+            android:fillColor="#F0F4F8"
+            android:pathData="M76,66 C70,63 62,63 56,66 L56,78 C62,75 70,75 76,78 Z" />
+        <!-- Center Book Spine / Chemistry Beaker Accent -->
+        <path
+            android:fillColor="#4FC3F7"
+            android:pathData="M51,65 L57,65 L57,78 L51,78 Z" />
+    </group>
+</vector>

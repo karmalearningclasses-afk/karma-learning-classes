@@ -1,0 +1,6 @@
+{
+  "name": "Karma Learning Classes",
+  "description": "Comprehensive study app with school & competitive exams, chemistry courses, live classes, practice sets, mock tests, PDF notes, recorded lectures, anti-screenshot security, and AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
